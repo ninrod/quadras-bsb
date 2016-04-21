@@ -1,9 +1,5 @@
 # Layout das quadras de brasilia
 
-## Asa sul
-
-### SQS-104
-
 Asa Sul                                                                                 | Asa norte
 ----------------------------------------------------------------------------------------|-------------------
 [sqs-104](https://raw.githubusercontent.com/ninrod/quadras-bsb/misc/images/sqs-104.jpg) | [sqn-212](https://raw.githubusercontent.com/ninrod/quadras-bsb/misc/images/sqn-212.jpg)
