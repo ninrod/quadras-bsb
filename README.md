@@ -5,7 +5,7 @@
 ### SQS-104
 
 Asa Sul                                                                                 | Asa norte
-------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------|-------------------
 [sqs-104](https://raw.githubusercontent.com/ninrod/quadras-bsb/misc/images/sqs-104.jpg) | [sqn-212](https://raw.githubusercontent.com/ninrod/quadras-bsb/misc/images/sqn-212.jpg)
 [sqs-203](https://raw.githubusercontent.com/ninrod/quadras-bsb/misc/images/sqs-203.jpg) |
 [sqs-303](https://raw.githubusercontent.com/ninrod/quadras-bsb/misc/images/sqs-303.jpg) |
