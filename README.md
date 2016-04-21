@@ -4,7 +4,7 @@
 
 ### SQS-104
 
-![sqs-104](https://raw.githubusercontent.com/ninrod/quadras-bsb/misc/images/sqs-104.jpg)
+__[sqs-104](https://raw.githubusercontent.com/ninrod/quadras-bsb/misc/images/sqs-104.jpg)__
 
 ### SQS-203
 
