@@ -9,6 +9,7 @@ Asa Sul                                                                         
 [sqs-303](https://raw.githubusercontent.com/ninrod/quadras-bsb/misc/images/sqs-303.jpg)      |
 [sqs-304](https://raw.githubusercontent.com/ninrod/quadras-bsb/misc/images/sqs-304.jpg)      | 
 [sqs-305](https://raw.githubusercontent.com/jorgelealbr/quadras-bsb/misc/images/sqs-305.jpg) | 
+[sqs-402](https://raw.githubusercontent.com/jorgelealbr/quadras-bsb/misc/images/sqs-402.jpg) | 
 [sqs-404](https://raw.githubusercontent.com/ninrod/quadras-bsb/misc/images/sqs-404.jpg)      |
 [sqs-405](https://raw.githubusercontent.com/ninrod/quadras-bsb/misc/images/sqs-405.jpg)      |
 [sqs-406](https://raw.githubusercontent.com/ninrod/quadras-bsb/misc/images/sqs-406.jpg)      |
