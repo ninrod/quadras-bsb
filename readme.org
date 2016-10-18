@@ -5,8 +5,8 @@
 | Asa Sul | Asa Norte |
 |---------+-----------|
 | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-104.jpg][sqs-104]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqn-212.jpg][sqn-212]]   |
-| [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-105.jpg][sqs-105]] |           |
-| [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-114.jpg][sqs-114]] |           |
+| [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-105.jpg][sqs-105]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqn-213.jpg][sqn-213]]   |
+| [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-114.jpg][sqs-114]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqn-214.jpg][sqn-214]]   |
 | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-115.jpg][sqs-115]] |           |
 | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-202.jpg][sqs-202]] |           |
 | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-203.jpg][sqs-203]] |           |
