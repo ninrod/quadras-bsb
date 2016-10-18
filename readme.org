@@ -1,37 +1,15 @@
 #+STARTUP: indent
 
 * Asa Sul
-|    | 300 | 100 | 200 | 400 |
-|  2 |     |     | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-202.jpg][202]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-402.jpg][402]] |
-|  3 | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-303.jpg][303]] |     | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-203.jpg][203]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-403.jpg][403]] |
-|  4 | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-304.jpg][304]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-104.jpg][104]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-204.jpg][204]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-404.jpg][404]] |
-|  5 | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-305.jpg][305]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-105.jpg][105]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-205.jpg][205]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-405.jpg][405]] |
-|  6 |     |     |     | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-406.jpg][406]] |
-|  7 |     |     |     | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-407.jpg][407]] |
-|  8 |     |     |     | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-408.jpg][408]] |
-|  9 |     |     |     |     |
-| 10 |     |     | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-210.jpg][210]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-410.jpg][410]] |
-| 11 |     |     | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-211.jpg][211]] |     |
-| 12 |     |     | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-212.jpg][212]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-412.jpg][412]] |
-| 13 |     |     |     |     |
-| 14 | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-314.jpg][314]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-114.jpg][114]] |     |     |
-| 15 | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-315.jpg][315]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-115.jpg][115]] |     |     |
-| 16 |     |     | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-216.jpg][216]] |     |
+|     |  16 | 15  | 14  | 13 | 12  |  11 | 10  | 9 |   8 |   7 |   6 | 5   | 4   | 3   | 2   |
+| 300 |     | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-315.jpg][315]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-314.jpg][314]] |    |     |     |     |   |     |     |     | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-305.jpg][305]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-304.jpg][304]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-303.jpg][303]] |     |
+| 100 |     | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-115.jpg][115]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-114.jpg][114]] |    |     |     |     |   |     |     |     | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-105.jpg][105]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-104.jpg][104]] |     |     |
+| 200 | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-216.jpg][216]] |     |     |    | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-212.jpg][212]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-211.jpg][211]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-210.jpg][210]] |   |     |     |     | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-205.jpg][205]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-204.jpg][204]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-203.jpg][203]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-202.jpg][202]] |
+| 400 |     |     |     |    | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-412.jpg][412]] |     | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-410.jpg][410]] |   | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-408.jpg][408]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-407.jpg][407]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-406.jpg][406]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-405.jpg][405]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-404.jpg][404]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-403.jpg][403]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-402.jpg][402]] |
 
 * Asa Norte
-|    | 300 | 100 | 200 | 400 |
-| 16 |     |     |     |     |
-| 15 |     |     |     |     |
-| 14 |     |     | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqn-214.jpg][214]] |     |
-| 13 |     |     | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqn-213.jpg][213]] |     |
-| 12 |     |     | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqn-212.jpg][212]] |     |
-| 11 |     |     |     |     |
-| 10 |     |     |     |     |
-|  9 |     |     |     |     |
-|  8 |     |     |     |     |
-|  7 |     |     |     |     |
-|  6 |     |     |     |     |
-|  5 |     |     |     |     |
-|  4 |     |     |     |     |
-|  3 |     |     |     |     |
-|  2 |     |     |     |     |
+|     | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |  12 |  13 |  14 | 15 | 16 |
+| 300 |   |   |   |   |   |   |   |   |    |    |     |     |     |    |    |
+| 100 |   |   |   |   |   |   |   |   |    |    |     |     |     |    |    |
+| 200 |   |   |   |   |   |   |   |   |    |    | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqn-212.jpg][212]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqn-213.jpg][213]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqn-214.jpg][214]] |    |    |
+| 400 |   |   |   |   |   |   |   |   |    |    |     |     |     |    |    |
