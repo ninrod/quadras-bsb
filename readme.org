@@ -1,6 +1,5 @@
-#+STARTUP: indent
-
 * Asa Sul
+
 |     |  16 | 15  | 14  |  13 | 12  |  11 | 10  | 09 |  08 |  07 | 06  | 05  | 04  | 03  | 02  |
 | 300 |     | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-315.jpg][315]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-314.jpg][314]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-313.jpg][313]] |     |     |     |    |     |     |     | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-305.jpg][305]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-304.jpg][304]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-303.jpg][303]] |     |
 | 100 |     | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-115.jpg][115]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-114.jpg][114]] |     |     |     | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-110.jpg][110]] |    |     |     |     | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-105.jpg][105]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-104.jpg][104]] |     |     |
@@ -8,8 +7,24 @@
 | 400 |     |     |     |     | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-412.jpg][412]] |     | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-410.jpg][410]] |    | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-408.jpg][408]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-407.jpg][407]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-406.jpg][406]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-405.jpg][405]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-404.jpg][404]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-403.jpg][403]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqs-402.jpg][402]] |
 
 * Asa Norte
+
 |     | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 |  12 |  13 |  14 | 15 | 16 |
 | 300 |    |    |    |    |    |    |    |    |    |    |     |     |     |    |    |
 | 100 |    |    |    |    |    |    |    |    |    |    |     |     |     |    |    |
 | 200 |    |    |    |    |    |    |    |    |    |    | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqn-212.jpg][212]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqn-213.jpg][213]] | [[https://raw.githubusercontent.com/ninrod/quadras-bsb/master/img/sqn-214.jpg][214]] |    |    |
 | 400 |    |    |    |    |    |    |    |    |    |    |     |     |     |    |    |
+
+
+* LICENSE
+
+#+BEGIN_QUOTE
+    copyright (C)  2016 - Filipe Correa Lima da Silva
+    Permission is granted to copy, distribute and/or modify this document
+    under the terms of the GNU Free Documentation License, Version 1.3
+    or any later version published by the Free Software Foundation;
+    with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+    A copy of the license is included in the section entitled "GNU
+    Free Documentation License".
+#+END_QUOTE
+
+[[https://www.gnu.org/licenses/fdl.html#addendum][GNU Free Documentation License - 1.3]]
